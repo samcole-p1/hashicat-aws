@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
-  Welcome to ${PREFIX}'s app. The man in black fled accross the desert and the gunslinger followed.
+  Welcome to ${PREFIX}'s app. Reading is useful.
   <!-- END -->
 
   </div>
